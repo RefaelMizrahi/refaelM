@@ -1,0 +1,35 @@
+    body {
+        text-align: center;
+        background-color: black;
+        color: white;
+    }
+    
+    table {
+        margin: auto;
+        padding: 20px;
+    }
+    
+    .cell {
+        cursor: pointer;
+        font-size: 20px;
+        font-weight: bold;
+        background-color: #ccc;
+        border: 5px solid;
+        border-color: #eee #999 #999 #eee;
+        height: 38px;
+        width: 38px;
+        border-spacing: 0px;
+        box-sizing: border-box
+    }
+    
+    .container-ezay {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    .contanier-harder {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    .contanier-hardest {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    }
